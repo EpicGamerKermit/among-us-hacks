@@ -7,5 +7,4 @@ Btw don't copy this it is under a license I can sue you so I'm just warning you
 I call it Un HackerMan but in-game it is different
 
 # Download?
-
-https://github.com/imanarii/Imposter_master/archive/v2.1.zip (this is a friend that helped with the project)
+https://github.com/imanarii/Imposter_master/releases/download/v2.1/Imposter_master.rar (this is a friend that helped with the project)
